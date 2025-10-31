@@ -3,6 +3,6 @@
     { "src": "package.json", "use": "@vercel/static-build" }
   ],
   "buildCommand": "npm run build",
-  "outputDirectory": "dist",
+  "outputDirectory": "build",
   "framework": "vite"
 }
